@@ -2,7 +2,7 @@
     <content><![CDATA[
 shouldComponentUpdate(nextProps, nextState) {
 	${1}
-},
+}
 ]]></content>
     <tabTrigger>scu</tabTrigger>
     <scope>source.js</scope>

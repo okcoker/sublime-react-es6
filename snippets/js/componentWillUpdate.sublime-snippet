@@ -2,7 +2,7 @@
     <content><![CDATA[
 componentWillUpdate(nextProps, nextState) {
 	${1}
-},
+}
 ]]></content>
     <tabTrigger>cwu</tabTrigger>
     <scope>source.js</scope>

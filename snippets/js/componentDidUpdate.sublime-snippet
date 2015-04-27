@@ -2,7 +2,7 @@
     <content><![CDATA[
 componentDidUpdate(prevProps, prevState) {
 	${1}
-},
+}
 ]]></content>
     <tabTrigger>cdup</tabTrigger>
     <scope>source.js</scope>

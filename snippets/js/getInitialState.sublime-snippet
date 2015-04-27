@@ -4,7 +4,7 @@ getInitialState() {
 	return {
 		${1}: ${2}
 	};
-},
+}
 ]]></content>
     <tabTrigger>gis</tabTrigger>
     <scope>source.js</scope>

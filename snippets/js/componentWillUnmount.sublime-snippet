@@ -2,7 +2,7 @@
     <content><![CDATA[
 componentWillUnmount() {
 	${1}
-},
+}
 ]]></content>
     <tabTrigger>cwun</tabTrigger>
     <scope>source.js</scope>

@@ -4,7 +4,7 @@ getDefaultProps() {
 	return {
 		${1}
 	};
-},
+}
 ]]></content>
     <tabTrigger>gdp</tabTrigger>
     <scope>source.js</scope>
