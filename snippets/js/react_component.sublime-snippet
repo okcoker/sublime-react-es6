@@ -3,13 +3,15 @@
 import React from 'react';
 
 class ${1} extends React.Component {
+    constructor(props) {
+        super(props);
+    }
 
 	render() {
 		return (
 			${0:<div />}
 		);
 	}
-
 }
 
 export default ${1};
