@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-const cx = React.addons.classSet;
-]]></content>
-    <tabTrigger>cs</tabTrigger>
-    <scope>source.js</scope>
-    <description>React: const cx = React.addons.classSet;</description>
-</snippet>

@@ -1,9 +1,14 @@
 <snippet>
     <content><![CDATA[
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 
 class ${1} extends Component {
+    static propTypes = {
+
+    }
+
     render() {
         return (
             ${0:<div />}
