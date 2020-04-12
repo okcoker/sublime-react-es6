@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+import React, { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
+
+export default function ${1:Component}({ ${2:prop} }) {
+    return (
+        ${3:<div />}
+    );
+}
+
+${1:Component}.propTypes = {
+    ${2:prop}: PropTypes.${4:any}
+}
+
+${1:Component}.defaultProps = {
+    ${2:prop}: ${5:null}
+}
+
+
+]]></content>
+    <tabTrigger>rfc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: function component skeleton</description>
+</snippet>

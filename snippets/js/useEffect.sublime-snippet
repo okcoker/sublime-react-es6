@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+useEffect(() => {
+    ${1:effect}
+
+    return () => {
+        ${2:cleanup}
+    };
+}, [${3:dep}]);
+]]></content>
+    <tabTrigger>ue</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: useEffect(() => {})</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+const [${1:state}, ${2:setState}] = useState(${3:defaultValue});
+]]></content>
+    <tabTrigger>us</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: const [] = useState()</description>
+</snippet>
